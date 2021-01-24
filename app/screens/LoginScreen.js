@@ -73,6 +73,6 @@ function LoginScreen({ navigation, loginUser }) {
 
 const mapDispatch = (dispatch) => ({
   loginUser: (email, password) => dispatch(loginUser(email, password)),
-});
+});           
 
 export default connect(null, mapDispatch)(LoginScreen);
