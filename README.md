@@ -1,4 +1,5 @@
 ## CAPACITY
+Demo Video:  https://www.youtube.com/watch?v=CS0nwg2cZZY&feature=youtu.be
 
 Capacity is a location based app that uses crowd sourced reviews to allow users the ability to see in real time how busy a location is. With a dynamic heatmap layered over establishments, we are giving people the ability to better plan their trips whether it's an afternoon at the grocery store, or a night out in an unfamiliar city where they'd like to get a taste of the local nightlife. 
 
